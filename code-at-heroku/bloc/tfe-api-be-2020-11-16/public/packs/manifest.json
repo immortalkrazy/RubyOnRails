@@ -1,0 +1,25 @@
+{
+  "application.js": "/packs/js/application-508e3f8f52ecb518b7b3.js",
+  "application.js.map": "/packs/js/application-508e3f8f52ecb518b7b3.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-508e3f8f52ecb518b7b3.js"
+      ],
+      "js.map": [
+        "/packs/js/application-508e3f8f52ecb518b7b3.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-6f0c332dce4b7b33f7cc.js"
+      ],
+      "js.map": [
+        "/packs/js/index-6f0c332dce4b7b33f7cc.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-6f0c332dce4b7b33f7cc.js",
+  "index.js.map": "/packs/js/index-6f0c332dce4b7b33f7cc.js.map",
+  "media/logo/turtle.png": "/packs/media/logo/turtle-0f7bfa4e.png"
+}
